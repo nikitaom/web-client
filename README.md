@@ -1,5 +1,5 @@
 # Web-client application
-##Preparing
+## Preparing
 Before using this application be sure you have installed next programs on your computer:
 
 * [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
